@@ -1,0 +1,31 @@
+:root {
+    --primary-color: #ff6600;
+    --background-color: #feeac2;
+    --white: #fff;
+
+    .header {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        height: 60px;
+        align-items: center;
+
+        .text {
+            font-size: 32px;
+        }
+
+    }
+
+    .title {
+        text-align: center;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    .button {
+        color: var(--white);
+        font-weight: bold;
+        text-transform: uppercase;
+        background-color: var(--primary-color);
+    }
+}
