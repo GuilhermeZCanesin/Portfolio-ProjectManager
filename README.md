@@ -18,4 +18,4 @@ npm install
 npm run dev
 ```
 
-
+Vercel Deploy: https://portfolio-project-manager-53hgqqh3e-guilherme-canesins-projects.vercel.app
